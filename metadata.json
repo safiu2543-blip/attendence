@@ -1,0 +1,10 @@
+
+{
+  "name": "SmartAttend | The Gold Standard",
+  "description": "An elite digital attendance platform featuring real-time code-based synchronization, AI-powered strategy core, and secure academic resource distribution.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
